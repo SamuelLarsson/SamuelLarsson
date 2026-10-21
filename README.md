@@ -35,4 +35,4 @@
 ### Kontakta mig
 * **E-post:** Samuellarslarsson@gmail.com
 * **Ort:** Stockholm
-> *"Jag vill bli lika bra på IT som jag är på mat!"*
+
