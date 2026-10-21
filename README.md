@@ -5,8 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-larsson-5029b633b) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Samuellarslarsson@gmail.com)
 
-Jag är en driven IT-säkerhetsstudent vid **TUC Yrkeshögskola** som växlar karriär efter 15 år i restaurangbranschen. Med en bakgrund som Sous Chef tar jag med mig ett grundmurat lugn i stressiga situationer, en metodisk inställning till problemlösning och en stark vana av att leda team i högt tempo.
-
 ---
 
 ### Teknisk Stack & Verktyg
@@ -30,17 +28,11 @@ Jag är en driven IT-säkerhetsstudent vid **TUC Yrkeshögskola** som växlar ka
 
 ---
 
-### Nuvarande Fokus
-*  Studerar aktivt inför **CompTIA Security+**.
-*  Genomgår **Google Cybersecurity Professional Certificate**.
-*  Söker aktivt **LIA-plats** inför perioderna:
-    * 17 augusti – 6 november 2026
-    * 25 januari – 14 maj 2027
+
 
 ---
 
 ### Kontakta mig
 * **E-post:** Samuellarslarsson@gmail.com
 * **Ort:** Stockholm
-
 > *"Jag vill bli lika bra på IT som jag är på mat!"*
